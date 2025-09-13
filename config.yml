@@ -1,0 +1,35 @@
+# @format
+
+BOT:
+  OWNERS: ["1300534329402982472","1300534329402982472","1300534329402982472"]
+  ADMINS: ["1300534329402982472"]
+
+LINKS:
+  SUPPORT: "https://discord.gg/lode-pe-moon-music"
+
+SPOTIFY:
+  ID: "782b993850144f4baf11aed2816733e2"
+  SECRET: "274ead558af44efbbcf56c59a3f66649"
+
+MANAGER:
+  OWNER: "192647111697760256"
+  TOKEN: "token dal"
+
+Moon Music:
+  CLIENT_ID: "1266788942863401103"
+  PREFIX: "+"
+  EMOJIS: "black"
+  COLOR: "#FF0000"
+  MONGO: "mongodb+srv://test:testing11557@test.6evegey.mongodb.net/?retryWrites=true&w=majority&appName=test"
+  SHARDS: 1
+  PER_CLUSTER: 1
+  TOKEN: "token dal"
+  TOPGGAUTH: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyODE4NzI3NDUxMTM1ODc3NTIiLCJib3QiOnRydWUsImlhdCI6MTczOTc2MzY2MH0.qnIHXN4FFXvdRwbE9QwH-5QNOgOzYHiYwNzIiPpNQ3s"
+
+
+WEBHOOKS:
+  ERROR: "https://discord.com/api/webhooks/1379009889376014387/tGpP15Jfg7p87yuKbq4a79W6iYuyBwmnBpiGb5jHqvqO2HmtpaXbz2NCow3wjpRo9HzO"
+  STATIC: "https://discord.com/api/webhooks/1379009889376014387/tGpP15Jfg7p87yuKbq4a79W6iYuyBwmnBpiGb5jHqvqO2HmtpaXbz2NCow3wjpRo9HzO"
+  PLAYER: "https://discord.com/api/webhooks/1379009889376014387/tGpP15Jfg7p87yuKbq4a79W6iYuyBwmnBpiGb5jHqvqO2HmtpaXbz2NCow3wjpRo9HzO"
+  SERVER: "https://discord.com/api/webhooks/1379009889376014387/tGpP15Jfg7p87yuKbq4a79W6iYuyBwmnBpiGb5jHqvqO2HmtpaXbz2NCow3wjpRo9HzO"
+  COMMAND: "https://discord.com/api/webhooks/1379009889376014387/tGpP15Jfg7p87yuKbq4a79W6iYuyBwmnBpiGb5jHqvqO2HmtpaXbz2NCow3wjpRo9HzO"
